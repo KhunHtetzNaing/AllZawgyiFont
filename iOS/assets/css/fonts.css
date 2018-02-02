@@ -1,0 +1,188 @@
+@font-face {
+font-family:'Dancing';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/81559b4c/dancing.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/81559b4c/dancing.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Darcy';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/dc.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/dc.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Eainmat';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/eainmat.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/eainmat.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Ghost';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ghost.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ghost.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Heart';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/heart.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/heart.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Htinshuu';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/htinshu.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/htinshu.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'iZawgyi';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/izawgyi.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/izawgyi.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Jojar';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/jojar.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/jojar.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'KhinHninsi';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/khnisi.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/khnisi.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Love';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/love.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/love.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Matrix';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/matrix.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/matrix.ttf') format('ttf');
+}
+
+
+@font-face {
+font-family:'Ngaye';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ngaye.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ngaye.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'NotoSansZawgyi';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/notosans.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/notosans.ttf') format('ttf');
+}
+
+
+@font-face {
+font-family:'NotoSansZawgyiMix';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/notosansmix.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/notosansmix.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Ooredoo';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ooredoo.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ooredoo.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Padauk';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/padauk.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/padauk.ttf') format('ttf');
+}
+
+
+@font-face {
+font-family:'PaOh';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/paoh.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/paoh.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Sagar';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/sagar.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/sagar.ttf') format('ttf');
+}
+
+
+@font-face {
+font-family:'SmartZawgyi';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/szg.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/szg.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'TabodweMix';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/81559b4c/tabodwemix.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/81559b4c/tabodwemix.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Transformer';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/tran.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/tran.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Ubuntu';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ubuntu.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/ubuntu.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'YoeYar';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/yoeyar.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/yoeyar.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Yuzana';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/yuzana.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/yuzana.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Zawgyi2';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/z2.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/z2.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'ZawgyiOne';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/zo.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/zo.ttf') format('ttf');
+}
+
+
+@font-face {
+font-family:'ZawgyiYang';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/zy.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/806fa278/zy.ttf') format('ttf');
+}
+
+@font-face {
+font-family:'Tagu';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tagu.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tagu.ttf') format('ttf');
+}
+@font-face {
+font-family:'Kason';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/kason.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/kason.ttf') format('ttf');
+}
+@font-face {
+font-family:'Nayon';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/nayon.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/nayon.ttf') format('ttf');
+}
+@font-face {
+font-family:'Tawthalin';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/ttl.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/ttl.ttf') format('ttf');
+}
+@font-face {
+font-family:'Thadingyut';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tdg.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tdg.ttf') format('ttf');
+}
+@font-face {
+font-family:'Tansaungmone';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tsm.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tsm.ttf') format('ttf');
+}
+@font-face {
+font-family:'Nattaw';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/nattaw.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/nattaw.ttf') format('ttf');
+}
+@font-face {
+font-family:'Pyatho';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/pyatho.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/pyatho.ttf') format('ttf');
+}
+@font-face {
+font-family:'Tabodwe';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tbd.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tbd.ttf') format('ttf');
+}
+@font-face {
+font-family:'Tabaung';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tabaung.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/tabaung.ttf') format('ttf');
+}
+@font-face {
+font-family:'Warso';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/warso.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/warso.ttf') format('ttf');
+}
+@font-face {
+font-family:'Wargaung';
+src: url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/wg.ttf') format('woff'), url('https://cdn.rawgit.com/KhunHtetzNaing/AllZawgyiFont/31963e80/wg.ttf') format('ttf');
+}
